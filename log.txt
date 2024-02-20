@@ -1,0 +1,7 @@
+1497.98 #For this program to work, Delete this text file and when you run the python script, it'll automatically create log.txt
+1497.78
+600.00
+3.97
+4.20
+13.74
+15.71
