@@ -1,0 +1,15 @@
+Important Readme explaining the Python Script and How it works.
+
+-Description: The Python Script Allows you to calculate how much Time is Spent on an Activity or Can also Be Used as a Pomodoro Graph Logger.
+-
+Use case: The Python Script once run, Starts Running a timer and runs it until Stopped. For example: If you were to Follow the 'Pomodoro' Technique of Doing an activity for 25minutes, Once you Manually Stop the Timer after Your First Session and Stores the data.
+You can then run the script again and Repeat the process until finally done with the Sessions. It'll then Open up a Bar Graph Representing How much of time is Spent on the Activity al together. Combining all the Sessions and giving you an estimate of it on the Whole day.
+-
+A helpful Productivity Logger than Can Bring an estimate into Logging the time Leading to better time Management.
+
+----------------------
+Usage:
+
+Before running the Script, Delete the Log.txt file from the Code by right clicking on it, and Deleting it. This will ensure the preset values are deleted. The Script then is ready to run. Run the Python script and It'll automatically log your sessions in the log.txt(Logs it in minutes).
+
+---The end----
